@@ -1,0 +1,6 @@
+{
+	"presets": [
+		"@babel/preset-env", /* Nos sirve para trabajar los ECMASCRIPTS */
+		"@babel/preset-react" /* Nos sirve para trabajar elementos de react y jsx */
+	]
+}
